@@ -4,7 +4,13 @@ Hi 👋 My name is Riko Wolhuter
 Junior Data analyst/scientist, software engineer.
 -------------------------------------------------
 
-I've been learning to code since I was a high school matriculant, starting my journey off at a code camp known as CodeSpace(in the middle of 2019) where I learnt about: Scratch, Arduino programming, teamwork, showing empathy and using Figma to create mockups for designs for applications. I took an advanced course at CodeSpace where I learnt about CSS, HTML5, and fundamentals of JavaScript. (At the end of 2019) From the years 2020 till the end of 2022, I completed my IIE BACHELOR OF COMPUTER AND INFORMATION SCIENCES IN APPLICATION DEVELOPMENT degree. In the year 2023 I am working part time as a code coach at CodeSpace whilst studying a postgraduate diploma in data analytics at Varsity College in Newlands. I aspire to become an AI Engineer/Data Analyst/Data Scientist after my studies.
+My name is Riko Wolhuter, I was born in Natal, Richards Bay, and raised in the Western Cape.
+
+I have always been interested in technology, even at a young age. When I was interacting with 'Scratch' (a visual programming language), I was learning the basics of coding. My interest in coding, however, was especially piqued when I was job shadowing at Amazon Web Services in 2019. The fundamentals of coding were solidified for me when I attended multiple coding courses during my final year of high school in 2019 at CodeSpace, a company that offers coding courses online and on their premises.
+
+At the end of 2022, I finished my degree at Varsity College and as of 2023 I am working part time at CodeSpace as a code coach and studying data analytics (a postgraduate diploma in data analysis) at Varsity College.
+
+I am open to working in the realm of AI, machine learning or data analysis and would love exposure to multiple technology-based industries where I can gain insight and make use of my skill set to help solve business and client-oriented problems.
 
 * 🌍  I'm based in Cape Town
 * ✉️  You can contact me at [rikowolhuter.dataanalyst@gmail.com](mailto:rikowolhuter.dataanalyst@gmail.com)
