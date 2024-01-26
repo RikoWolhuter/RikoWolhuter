@@ -16,7 +16,7 @@ I am open to working in the realm of AI, machine learning or data analysis and w
 * ✉️  You can contact me at [riko@codespace.co.za](mailto:riko@codespace.co.za)
 * 🧠  I'm learning Machine learning, AI and analysis
 * 🤝  I'm open to collaborating on AI and data analysis projects
-* ⚡  I love: surfing, business and tech
+* ⚡  I love: surfing, rock climbing, business and tech
 
 ### Skills
 
