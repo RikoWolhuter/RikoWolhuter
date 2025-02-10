@@ -13,7 +13,7 @@ At the end of 2022, I finished my degree at Varsity College and as of 2023 I am 
 I am open to working in the realm of AI, machine learning or data analysis and would love exposure to multiple technology-based industries where I can gain insight and make use of my skill set to help solve business and client-oriented problems.
 
 * 🌍  I'm based in Cape Town
-* ✉️  You can contact me at [riko@codespace.co.za](mailto:riko@codespace.co.za)
+* ✉️  You can contact me at [riko@codespace.co.za](mailto:riwolhuter@varsitycollege.co.za)
 * 🧠  I'm learning Machine learning, AI and analysis
 * 🤝  I'm open to collaborating on AI and data analysis projects
 * ⚡  I love: surfing, rock climbing, business and tech
